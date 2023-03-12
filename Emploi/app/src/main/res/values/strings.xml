@@ -1,0 +1,5 @@
+<resources>
+    <string name="MessageBienvenue">Bienvenue sur la page de recherche d\'emploi de ESMT</string>
+    <string name="boutonConnexion">Cliquez ici pour voir les CVs</string>
+
+</resources>
